@@ -20,7 +20,7 @@ header nav ul li {
 }
 header nav ul li a {
     background-color: red;
-    color: black;
+    color: rgb(0, 0, 0);
     text-decoration: none;
 }
 body {
@@ -28,40 +28,36 @@ body {
     margin: 0;
     padding: 0;
     background-color: rgb(206, 56, 56);
+    background-image: url("/Images/d (5).jpeg");
+    background-size: cover;
 }
 p {
     color: rgba(255, 187, 0, 1);
     font-size: 20pt;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Inknut Antiqua;
 }
 h1 {
     font-size: 32;
     text-decoration:underline;
     justify-items: left;
-    color: black;
+    color: yellow;
     text-align: center;
 }
 h2 {
     font-size: 28;
     text-decoration: underline;
-    color: black;
+    color: yellow;
     text-align: center;
 }
 .p-1{
-    color: rgba(255, 187, 0, 1);
+    color: yellow;
     font-size: 22pt;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-decoration: underline;
     text-align: left;
 }
-.image-1 {
-    height: auto;
-    width: 100%;
-    margin-bottom: 0;
-    padding: 0;
-}
 .p-2 {
-    color: rgba(255, 187, 0, 1);
+    color: yellow;
     font-size: 17pt;
     font-family: Arial, Helvetica, sans-serif;
 }
